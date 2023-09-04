@@ -83,7 +83,7 @@ const styles = (props = null) =>
       textAlign: 'left'
     },
     floatRight: {
-      width: '70%',
+      width: '72%',
       textAlign: 'right'
     },
     horizontalLine: {
