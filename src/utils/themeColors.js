@@ -4,7 +4,7 @@ export const theme = {
     white: '#F1EEE9',
     mustard: '#d8d8d874',
     borderColor: '#efefef',
-    backgroundColor: '#F1EEE9', //
+    backgroundColor: '#F1EEE9', 
     borderBottomColor: '#DAD6D6',
     primery: '#3C8F7C',
     themeBackground: '#DFD3C3',
