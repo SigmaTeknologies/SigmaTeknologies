@@ -9,22 +9,23 @@ export const textStyles = {
     fontSize: scale(24)
   },
   H3: {
-    fontSize: scale(20)
+    fontSize: scale(22.5)
   },
   H4: {
-    fontSize: scale(16)
+    fontSize: scale(20)
   },
   H5: {
-    fontSize: scale(14)
+    fontSize: scale(18.5)
   },
   Normal: {
-    fontSize: scale(12)
+    fontSize: scale(17)
   },
   Small: {
-    fontSize: scale(10)
+    fontSize: scale(11),
+    
   },
   Smaller: {
-    fontSize: scale(8)
+    fontSize: scale(12)
   },
   Regular: {
     fontFamily: fontStyles.MuseoSans300
